@@ -1,10 +1,10 @@
 <div align="left">
-  <img align="right" src="assets/momo-no-suidou-sui-artist-momonosuidousui-eroero884-9290047.png" width="310" alt="Fern" />
+  <img align="right" src="../assets/momo-no-suidou-sui-artist-momonosuidousui-eroero884-9290047.png" width="310" alt="Fern" />
 
   <p>
     <h1><code> クロナミ </code></h1>
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=19&pause=1000&color=AAFF00&background=FFFFFF00&width=450&lines=fullstack+madness;social+engine+builder;minecraft+plugin+dev;cross-platform+bot+dev;kmp+mobile+apps;goal:+life+in+japan" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=19&pause=1000&color=FF1999&background=FFFFFF00&width=450&lines=fullstack+madness;social+engine+builder;minecraft+plugin+dev;cross-platform+bot+dev;kmp+mobile+apps;goal:+life+in+japan" alt="Typing SVG" />
     </a>
   </p>
 
@@ -80,7 +80,7 @@
   <p>🏮 <b>「 デジタルアクセス 」</b> 🏮</p>
 
   <p align="center">
-    <img src="https://media1.tenor.com/m/_Qn-T0kgyGwAAAAd/taofa-hells-paradise.gif" width="320" alt="🌺" />
+    <img src="../assets/taofa-hells-paradise.gif" width="320" alt="🌺" />
   </p>
 
   <a href="https://t.me/aisuyummy" target="_blank">
