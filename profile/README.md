@@ -4,7 +4,10 @@
   <p>
     <h1><code> クロナミ </code></h1>
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=19&pause=1000&color=FF1999&background=FFFFFF00&width=450&lines=fullstack+madness;social+engine+builder;minecraft+plugin+dev;cross-platform+bot+dev;kmp+mobile+apps;goal:+life+in+japan" alt="Typing SVG" />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=19&pause=1000&color=AAFF00&background=FFFFFF00&width=450&lines=fullstack+madness;social+engine+builder;minecraft+plugin+dev;cross-platform+bot+dev;kmp+mobile+apps;goal:+life+in+japan">
+        <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=19&pause=1000&color=FF1999&background=FFFFFF00&width=450&lines=fullstack+madness;social+engine+builder;minecraft+plugin+dev;cross-platform+bot+dev;kmp+mobile+apps;goal:+life+in+japan" alt="Typing SVG" />
+      </picture>
     </a>
   </p>
 
