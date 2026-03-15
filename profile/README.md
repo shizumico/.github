@@ -1,5 +1,5 @@
 <div align="left">
-  <img align="right" src="../assets/momo-no-suidou-sui-artist-momonosuidousui-eroero884-9290047.png" width="310" alt="Fern" />
+  <img align="right" src="https://raw.githubusercontent.com/shizumico/.github/refs/heads/main/assets/momo-no-suidou-sui-artist-momonosuidousui-eroero884-9290047.png" width="310" alt="Fern" />
 
   <p>
     <h1><code> クロナミ </code></h1>
@@ -80,7 +80,7 @@
   <p>🏮 <b>「 デジタルアクセス 」</b> 🏮</p>
 
   <p align="center">
-    <img src="../assets/taofa-hells-paradise.gif" width="320" alt="🌺" />
+    <img src="https://raw.githubusercontent.com/shizumico/.github/refs/heads/main/assets/taofa-hells-paradise.gif" width="320" alt="🌺" />
   </p>
 
   <a href="https://t.me/aisuyummy" target="_blank">
